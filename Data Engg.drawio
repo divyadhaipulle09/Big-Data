@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="Page-1" id="zClwRwWN6AUSGhmhXS2x">
-    <mxGraphModel>
+    <mxGraphModel dx="1502" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f042Q7NCgjhJQh_5snVv-1" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="220" width="380" height="306" as="geometry" />
+        </mxCell>
+        <mxCell id="f042Q7NCgjhJQh_5snVv-6" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;pre style=&quot;font-size: var(--font-size-body-s-533prh, 12px); font-family: var(--font-family-monospace-yt4nwf, Monaco, Menlo, Consolas, &amp;quot;Courier Prime&amp;quot;, Courier, &amp;quot;Courier New&amp;quot;, monospace); padding: 0.4rem; margin-top: 0px; margin-bottom: 0px; overflow: auto; background: rgb(42, 46, 51); text-wrap: wrap; line-height: var(--line-height-body-s-n0pazd, 16px); -webkit-font-smoothing: auto; color: rgb(213, 219, 219); padding-block: var(--space-scaled-xl-rljqft, 24px); padding-inline: var(--space-xl-5fdwzu, 24px); text-align: start;&quot; class=&quot;awsui_root_18wu0_1ra3n_851 awsui_box_18wu0_1ra3n_108 awsui_pre-variant_18wu0_1ra3n_108 awsui_p-xl_18wu0_1ra3n_501 awsui_color-default_18wu0_1ra3n_108 awsui_font-size-body-s_18wu0_1ra3n_259 awsui_font-weight-default_18wu0_1ra3n_164&quot; data-testid=&quot;query-results-text&quot;&gt;  `fips` bigint, &lt;br&gt;  `admin2` string, &lt;br&gt;  `province_state` string, &lt;br&gt;  `country_region` string, &lt;br&gt;  `last_update` string, &lt;br&gt;  `latitude` double, &lt;br&gt;  `longitude` double, &lt;br&gt;  `confirmed` bigint, &lt;br&gt;  `deaths` bigint, &lt;br&gt;  `recovered` bigint, &lt;br&gt;  `active` string, &lt;br&gt;  `combined_key` string)&lt;/pre&gt;&lt;br style=&quot;text-wrap: wrap;&quot;&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="f042Q7NCgjhJQh_5snVv-1">
+          <mxGeometry y="26" width="380" height="280" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
